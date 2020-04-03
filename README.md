@@ -13,7 +13,7 @@
 			<ul>
 				<li class="current"> <a href="index.html">Home</a></li>
 				<li><a href="aboutme.html">About Me</a></li>
-				<li><a href="gallery.html">Gallery</a></li>
+				<li><a href="liinks.html">links</a></li>
 			</ul>
 		</nav>
 		</div>
